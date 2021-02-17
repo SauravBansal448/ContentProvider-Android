@@ -1,0 +1,6 @@
+[submodule "ContentProviderExample-Android"]
+	path = ContentProviderExample-Android
+	url = https://github.com/SauravBansal448/ContentProviderExample-Android.git
+[submodule "ContentProviderReceiverExample_android"]
+	path = ContentProviderReceiverExample_android
+	url = https://github.com/SauravBansal448/ContentProviderReceiverExample_android.git
